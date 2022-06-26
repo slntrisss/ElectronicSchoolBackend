@@ -16,4 +16,6 @@ Used technologies :
         - Wait for a few minutes while Maven adds and builds required dependencies
     2. Launching a server
         - In order to start the server go for a class named “ElectronicSchool” under “/src/org/back/school” folder and run the class;
-        - Open your browser and go for “http://localhost:8080/student/list” to make sure that your server is running, before you launch frontend part(link “https://github.com/slntrisss/ElectronicSchoolFrontend”);
+        - Open your browser and go for “http://localhost:8080/student/list” to make sure that 
+        your server is running, before you launch frontend 
+        part(link “https://github.com/slntrisss/ElectronicSchoolFrontend”);
